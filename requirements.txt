@@ -56,4 +56,3 @@ tzlocal==4.3.1
 urllib3==2.0.4
 validators==0.21.2
 zipp==3.16.2
-yfinance==0.2.14
