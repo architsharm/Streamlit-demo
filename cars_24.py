@@ -34,8 +34,3 @@ if st.button('Predict Price'):
 
 
 
-
-
-
-
-
